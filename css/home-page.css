@@ -218,6 +218,7 @@ header{
     justify-content: center;
     border: 1px solid black;
     margin: 10px;
+    height:390px;
 }
 
 .products img{
@@ -233,7 +234,7 @@ header{
 
 .products h4, .products p{
     text-align: center;
-    padding-top: 4px;
+    padding-top: 14px;
 }
 
 .featured-img{
